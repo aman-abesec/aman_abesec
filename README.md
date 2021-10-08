@@ -7,6 +7,13 @@
    <a href="https://www.facebook.com/aman.s.shrinet.3/"><img height="30" src="https://user-images.githubusercontent.com/92168231/136590195-d25bfb6a-0665-4e5e-ade3-18e1b29bc397.png"></a>&nbsp;&nbsp;
 </p>
 
+ ---
+<p>
+ 
+ ### About me
+ My name is Aman Singh. I am a self-motivated individual with a dynamic personality who has quick learning ability and passion for creating new things. I always love to explore new technologies. Sharing knowledge is my best part. I feel that unless you try to do something beyond what you have already mastered, you will never grow. And by sharing the knowledge I always get a chance to get into the depth of the topics what others want to learn from me.
+ </p>
+ 
   ---
  
  <p>
